@@ -1,0 +1,19 @@
+	    AREA C1,CODE,READONLY
+START
+		MOV R1,#10
+		MOV R2,#50
+		ADD R2,5
+		ADD R2,5
+		ADD R2,5
+		ADD R2,5
+	    ADD R2,5
+		ADD R2,5
+		ADD R2,5
+		ADD R2,5
+		ADD R2,5
+		ADD R2,5
+		ADD R2,5
+		BX LR
+		END
+	
+		
